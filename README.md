@@ -24,4 +24,5 @@ Pada bagian ini berisikan kesimpulan yang menjawab tujuan dari project dan rekom
 ## Tableau Dashboard
 Kami juga melakukan visualisasi melalui dashboard yang dapat diakses pada link berikut:
 https://public.tableau.com/app/profile/suluh.bagaspati/viz/FinalProject-CustomerChurn_17597353325550/Dashboard2?publish=yes
+
 <img width="1920" height="1172" alt="Dashboard Tableau" src="https://github.com/user-attachments/assets/67eb557c-f595-446f-a65f-e048f95de9ae" />

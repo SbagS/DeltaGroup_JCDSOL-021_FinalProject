@@ -22,5 +22,5 @@ Berisikan perhitungan dan analisis penerapan hasil model dalam konteks bisnis.
 Pada bagian ini berisikan kesimpulan yang menjawab tujuan dari project dan rekomendasi dari hasil analisis data maupun hasil pemodelan dengan machine learning.
 
 ## Tableau Dashboard
-Kami juga melakukan visualisasi melalui dashboard yang dapat diakses melalui link berikut:
+Kami juga melakukan visualisasi melalui dashboard yang dapat diakses pada link berikut:
 https://public.tableau.com/app/profile/suluh.bagaspati/viz/FinalProject-CustomerChurn_17597353325550/Dashboard2?publish=yes
